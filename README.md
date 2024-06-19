@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas vindas! 🪐✨.´´
+## Esse é o meu perfil.
 
-<!--
-**beepbeatriz/beepbeatriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+https://tenor.com/pt-BR/view/steven-universe-steven-quartz-universe-steven-universe-the-movie-steven-universe-future-change-gif-24221254
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## * INFORMAÇÕES *
+
+- Estou aprendendo a linguagem JavaScript no Alura;
+- Pretendo adquirir conhecimentos de muitas áreas diferentes;
+
+## Entre em contato comigo 📫
+
+00001106392140sp@al.educacao.sp.gov.br
